@@ -11,7 +11,7 @@ GreenMap adalah aplikasi revolusioner berbasis *Flutter* yang dirancang untuk me
 
 ---
 
-## Panduan Menjalankan Aplikasi (Mock Data) 🚀
+## Panduan Menjalankan Aplikasi (Mock Data) 
 
 Aplikasi ini saat ini berjalan menggunakan **Data Mock (Dummy)**. Semua data disimpan secara sementara di memori aplikasi selama sesi berjalan. Anda tidak perlu menghubungkan aplikasi ke backend atau database apapun.
 
