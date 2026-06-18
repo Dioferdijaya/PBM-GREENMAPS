@@ -1,4 +1,4 @@
-# GreenMap 🌿
+# GreenMap
 
 GreenMap adalah aplikasi revolusioner berbasis *Flutter* yang dirancang untuk memudahkan masyarakat dalam mengelola sampah mereka secara bijak. Aplikasi ini menghubungkan pengguna dengan Bank Sampah terdekat, memungkinkan penyetoran sampah untuk ditukar menjadi poin, serta menyediakan *Marketplace* untuk menukarkan poin dengan berbagai *voucher* menarik.
 
