@@ -46,7 +46,7 @@ Gunakan akun ini untuk mengakses dashboard pengelolaan *Voucher* (membuat, menge
 
 ---
 
-## Arsitektur & Teknologi 🛠️
+## Arsitektur & Teknologi 
 - **Framework:** Flutter (Dart)
 - **State Management:** Provider
 - **Routing:** GoRouter (Dengan ShellRoute untuk navigasi bawah bersarang)
