@@ -22,7 +22,7 @@ Untuk menjalankan aplikasi ini:
 
 ---
 
-## Akun Demo (Login) 🔐
+## Akun Demo (Login) 
 
 Gunakan akun-akun di bawah ini untuk menguji berbagai fitur dan peran yang ada di dalam aplikasi.
 
