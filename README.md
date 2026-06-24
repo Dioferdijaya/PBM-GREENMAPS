@@ -54,8 +54,8 @@ Gunakan akun ini untuk mengakses dashboard pengelolaan *Voucher* (membuat, menge
 - **Data:** *In-Memory Mock Data* (Model, Provider, dan Repository lokal)
   
 ---
-### 3. Dokumentasi
-## Sisi Pengguna (User)<br>
+## Dokumentasi
+### Sisi Pengguna (User)<br>
 a. Dashboard
 
 <img width="198" height="397" alt="image" src="https://github.com/user-attachments/assets/01b1a0e7-ca32-478a-98a3-9a50ab1763c8" />
@@ -82,7 +82,7 @@ e. Marketplace Reward
 <img width="198" height="397" alt="image" src="https://github.com/user-attachments/assets/69c6fd08-43a5-47f9-adb0-ea6fb540ffe9" />
 
 ---
-## Sisi Admin<br>
+### Sisi Admin<br>
 f. Dashboard Admin
 
 <img width="198" height="397" alt="image" src="https://github.com/user-attachments/assets/d2f91d96-e3e6-4bb7-86d8-4225304a7872" />
@@ -98,7 +98,7 @@ h. Profil Admin
 <img width="198" height="397" alt="image" src="https://github.com/user-attachments/assets/57da9fc4-7052-414a-ac6f-f24bb7211b72" />
 
 ---
-## Sisi Super Admin <br>
+### Sisi Super Admin <br>
 i. Dashboard Super Admin
 
 <img width="198" height="397" alt="image" src="https://github.com/user-attachments/assets/b1de8626-76cf-456c-a161-38aa5b0dfd91" />
